@@ -4,7 +4,7 @@
 
 In the past, I was involved in electronics, doing component level repairs on computers, TVs, and mobile phones from my own repair shop. 
 
-However, now I have closed my own shop and decided to dive into software development.
+However, now I have closed my own shop and want to be a wagie.
 
 ## My journey
 
