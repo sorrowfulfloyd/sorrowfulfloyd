@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/sorrowfulfloyd/sorrowfulfloyd/main/img/uwu.jpg" alt="real nice" width="300"/>
 
+_Howdy?_
+
 ## About me
 
 In the past, I was involved in electronics, doing component-level repairs on computers, TVs, and mobile phones from my repair shop. 
