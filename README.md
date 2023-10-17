@@ -12,4 +12,5 @@ A few years ago I dived into coding without a clear goal. Now I want to do this 
 
 Oh, and I also remember *coding* VBasic 6.0 when I was a chubby little boy.
 
-<img src="https://raw.githubusercontent.com/sorrowfulfloyd/sorrowfulfloyd/main/img/uwu.jpg" alt="real nice"/>
+_No, sadly that's not me_
+<img src="https://raw.githubusercontent.com/sorrowfulfloyd/sorrowfulfloyd/main/img/uwu.jpg" alt="real nice" width="300"/>
