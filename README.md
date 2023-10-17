@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sorrowfulfloyd/sorrowfulfloyd/main/img/sponge.jpg" alt="funnybob" width="250"/>
+<img src="https://raw.githubusercontent.com/sorrowfulfloyd/sorrowfulfloyd/main/img/uwu.jpg" alt="real nice" width="300"/>
 
 ## About me
 
@@ -11,7 +11,3 @@ However, now I have closed my shop and want to be a wagie.
 A few years ago I dived into coding without a clear goal. Now I want to do this professionally like an NPC. Btw I heard React devs get paid a lot right? 
 
 Oh, and I also remember *coding* VBasic 6.0 when I was a chubby little boy.
-
-_No, sadly that's not me_
-
-<img src="https://raw.githubusercontent.com/sorrowfulfloyd/sorrowfulfloyd/main/img/uwu.jpg" alt="real nice" width="300"/>
